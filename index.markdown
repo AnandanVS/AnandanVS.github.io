@@ -1,6 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
 ---
+
+# Welcome
+**Anandan – Senior Full‑Stack Engineer | Academic Instructor | Mobile App Innovator**
+
+25+ years in IT, 5 years in Electronics, 4 years in Academics – delivering robust solutions across industries and education.
+
+[About Me](about.md) | [Skills](skills.md) | [Projects](projects.md) | [Academics](academics.md) | [Contact](contact.md)
